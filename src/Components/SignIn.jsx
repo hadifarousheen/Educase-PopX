@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 const SignIn = () => {
   return (
     <div className="h-screen flex items-center justify-center">
-      <div className="h-screen w-full  md:w-1/3 border border-gray-400 flex flex-col py-10 px-3 ">
+      <div className="h-screen w-full  md:w-2/3 border border-gray-400 flex flex-col py-10 px-3 ">
         <h1 className="font-bold text-3xl mt-6 w-2/3 md:w-full  md:text-6xl">
           Signin to your PopX account
         </h1>

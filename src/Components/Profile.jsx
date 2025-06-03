@@ -1,7 +1,7 @@
 const Profile = () => {
   return (
     <div className="h-screen flex items-center justify-center">
-      <div className="h-screen w-full  md:w-1/3 border border-gray-400 flex flex-col  px-3 ">
+      <div className="h-screen w-full  md:w-2/3 border border-gray-400 flex flex-col  px-3 ">
         <div className="flex items-center">
           {" "}
           <h1 className="text-2xl py-6 md:py-8 md:text-6xl ">
