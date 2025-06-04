@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 const Register = () => {
   return (
     <div className="h-screen flex items-center justify-center ">
-      <div className="h-screen w-full   md:w-2/3 border border-gray-400 flex flex-col py-10 px-3 md:px-5 ">
+      <div className="h-full w-full   md:w-2/3 border border-gray-400 flex flex-col py-10 px-3 md:px-5 ">
         <h1 className="font-bold text-3xl mt-6 w-3/5 md:w-full md:text-5xl md:mb-6">
           Create your PopX account
         </h1>
